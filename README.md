@@ -30,4 +30,4 @@ Solved Output:
 961537284
 287419635
 345286179
-Solved in 0.25 seconds using BFS. 
+Solved in 0.25 seconds using BFS. copyright by souad el maazouzi 
